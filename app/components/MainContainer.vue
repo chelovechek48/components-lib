@@ -10,5 +10,6 @@
   margin: 0 auto;
   padding: 1rem;
   background-color: gainsboro;
+  border: 3px solid black;
 }
 </style>

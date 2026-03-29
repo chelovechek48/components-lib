@@ -1,5 +1,5 @@
 <template>
   <div>
-    LoremIpsum
+    <LoremIpsum />
   </div>
 </template>
